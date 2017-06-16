@@ -1,0 +1,21 @@
+# Site settings
+title: Christopher Jones Dev Blog
+header-img: img/home-bg.png
+email: cjones999983@gmail.com
+copyright_name: Scyntre2017
+description: > # this means to ignore newlines until "baseurl:"
+  The Development of a Developer
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  Scyntre2017
+learn_profile: Scyntre2017
+email_username: cjones999983@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
