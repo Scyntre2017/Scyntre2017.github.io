@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Solving the Oxford Comma"
-date:   2017-06-24 02:17:18 +0000
+date:   2017-06-23 22:17:18 -0400
 ---
 
 So yesterday I spent several hours racking my brain and researching different ways to turn an `array` of items (i.e. `["peaches", "grapes", "oranges", "pineapple", "passion fruit"]`) into a comma seperated `string` with the word "and" before the last item: `"peaches, grapes, oranges, pineapple, and passion fruit"`.
