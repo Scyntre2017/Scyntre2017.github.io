@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My "Why" For Software Development"
+title:  "My 'Why' For Software Development"
 date:   2017-06-12 19:34:41 -0400
 ---
 
