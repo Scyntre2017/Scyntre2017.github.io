@@ -12,7 +12,7 @@ Finally I came up with this:
 
 But lets break down how this works and why.
 
-First we call `.insert(-2, "and")` on `array`. `.insert` takes two arguments - the index number and what you want to insert. In this case: `-2` and `"and"`, and using them to insert `and` into the array at the `-2` index. Negative numbers for the index start at the end of the array and work backwards toward the beginning. So in the example array above that would return a new array:
+Call `.insert(-2, "and")` on `array`. We pass two arguments to the `.insert` method - the index number and what you want to insert. In this case: `-2` and `"and"`, and using them to insert `and` into the array at the `-2` index. Negative numbers for the index start at the end of the array and work backwards toward the beginning. So in the example array above that would return a new array:
 
 ```["peaches", "grapes", "oranges", "pineapple", "and", "passion fruit"]```
 
