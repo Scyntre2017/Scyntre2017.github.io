@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Solving the Oxford Comma"
+title:  "Ruby - Solving the Oxford Comma"
 date:   2017-06-23 22:17:18 -0400
 ---
 
