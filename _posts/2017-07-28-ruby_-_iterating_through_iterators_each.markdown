@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ruby - Iterating Through Iterators: #Each"
-date:   2017-07-28 01:13:17 +0000
+date:   2017-07-27 21:13:18 -0400
 ---
 
 At the beginning of my venture into programming, I started out learning Ruby, and I was introduced to the concept of iterators fairly early on (an iterator is a block of code that allows you to manipulate any or all data points in a set of data). I found them to be easy to grasp conceptually, but when I tried to put them into practice I spent hours figuring out how to use them. Even after using them, I still sometimes didn't understand how they worked. Thus, in an effort to better my own understanding and hopefully help out others who struggle with them too, I am going to try to write a blog post on each iterator.
@@ -86,4 +86,4 @@ sum => 45```
 
 I first set `sum` equal to `0`. Then on each loop of `#each` I add the value of the number of that loop. Coming up with the sum of 45.
 
-I hope you have found these examples helpful and if you have any questions, feel free to contact me.
+I hope you have found these examples helpful. Remember, if you want your code to `return` something based on your manipulation of each item, you need to set a variable outside of the `#each` method and then modify it based on each item inside the `#each` method. If you have any questions, feel free to contact me.
