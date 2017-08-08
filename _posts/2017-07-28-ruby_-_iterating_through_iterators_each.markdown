@@ -1,12 +1,10 @@
 ---
 layout: post
-title:  "Ruby - Iterating Through Iterators: #Each"
+title:  "Ruby - The #Each iterator"
 date:   2017-07-28 21:13:18 -0400
 ---
 
-At the beginning of my venture into programming, I started out learning Ruby, and I was introduced to the concept of iterators fairly early on (an iterator is a block of code that allows you to manipulate any or all data points in a set of data). I found them to be easy to grasp conceptually, but when I tried to put them into practice I spent hours figuring out how to use them. Even after using them, I still sometimes didn't understand how they worked. Thus, in an effort to better my own understanding and hopefully help out others who struggle with them too, I am going to try to write a blog post on each iterator.
-
-There are many classes that iterators work with, but because I don't understand all of the classes in Ruby yet, in these posts I am only going to include the ones that I do. I will try to update these posts as my knowledge base in Ruby expands.
+At the beginning of my venture into programming, I started out learning Ruby, and I was introduced to the concept of iterators fairly early on (an iterator is a block of code that allows you to manipulate any or all data points in a set of data). I found them to be easy to grasp conceptually, but when I tried to put them into practice I spent hours figuring out how to use them. I specifically struggle with using the `#each` method. Thus, in an effort to better my own understanding and hopefully help out others who struggle with this method too, here is a post about it.
 
 The most basic iterator is the `#each` method, which basically does exactly what it says - goes through each data point and does whatever you specify with it.
 
