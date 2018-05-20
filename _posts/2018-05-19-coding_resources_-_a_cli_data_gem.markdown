@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Coding Resources - A CLI Data Gem"
-date:       2018-05-20 02:09:58 +0000
+title:      "Coding Resources - A CLI Data Gem (And How to Stop Being Lazy)"
+date:       2018-05-19 22:09:59 -0400
 permalink:  coding_resources_-_a_cli_data_gem
 ---
 
