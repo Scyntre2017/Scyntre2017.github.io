@@ -2,7 +2,7 @@
 layout: post
 title:      "Coding Resources - A CLI Data Gem (And How to Stop Being Lazy)"
 date:       2018-05-19 22:09:59 -0400
-permalink:  coding_resources_-_a_cli_data_gem
+permalink:  coding_resources_-_a_cli_data_gem_and_how_to_stop_being_lazy
 ---
 
 Right before I got back into working on this CLI project I read a [post](https://www.iwillteachyoutoberich.com/blog/how-do-i-stop-being-lazy/) by Ramit Sethi about how to stop being lazy and finish what you start. In it he outlined four steps to make sure that you started and finished the things that are important to you.
